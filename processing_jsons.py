@@ -47,7 +47,7 @@ for index, js in enumerate(json_files):
             
     except Exception as e:
         # print(f"Error for {js}: {str(e)[:50]}...")
-        continue  # просто пропускаем проблемные файлы
+        continue 
 
 # SAVING
 if all_data:
