@@ -42,7 +42,7 @@ for index, js in enumerate(json_files):
             'year': year,
             'country': country,
             'city': city,
-            'filename': js  # опционально: имя файла для отслеживания
+            'filename': js 
         })
             
     except Exception as e:
