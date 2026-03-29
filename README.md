@@ -1,7 +1,7 @@
 # PastVu parser
 
 PastVu is an online platform for curating, annotating, attributing, and discussing vintage pictures around the world.
-This project provides a tool for downloading a custom number and range of photos from pastvu.com, along with collecting metadata such as countries, years, coordinates, users, objects, and addresses into a CSV file.
+This project provides a tool for downloading a custom number and range of photos from pastvu.com, along with collecting metadata such as countries, years, coordinates, users, objects, and addresses into a CSV file for further statistical survey with Counter and ML libraries. 
 
 ## Structure
 The project consists of 3 Python scripts:
